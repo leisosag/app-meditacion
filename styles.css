@@ -75,22 +75,22 @@
     padding: 3px;
 }
 .sound-picker button:nth-child(1) {
-    background-color: #4972a1;
+    background-color: #9F5499;
 }
 .sound-picker button:nth-child(2) {
-    background-color: #a19849;
+    background-color: #7766BB;
 }
 .sound-picker button:nth-child(3) {
-    background-color: #4972a1;
+    background-color: #0078D1;
 }
 .sound-picker button:nth-child(4) {
-    background-color: #49a14d;
+    background-color: #0087D2;
 }
 .sound-picker button:nth-child(5) {
-    background-color: #89a149;
+    background-color: #0091BE;
 }
 .sound-picker button:nth-child(6) {
-    background-color: #4976a1;
+    background-color: #009798;
 }
 .sound-picker button img {
     height: 100%;
