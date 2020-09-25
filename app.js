@@ -12,7 +12,7 @@ const app = () => {
     // circunferencia
     const outlineLength = outline.getTotalLength();
     // duracion
-    let fakeDuration = 600;
+    let fakeDuration = 300;
 
     // obtengo la circunferencia
     outline.style.strokeDasharray = outlineLength;
